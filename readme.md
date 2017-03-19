@@ -1,4 +1,3 @@
-<h2>IoC Inversion of Control ÒÀÀµ×¢Èë</h2>
-<hr>
-<h3>Ä£Äâspring¿ò¼ÜÖÐµÄÒÀÀµ×¢Èë</h3>
-<p>Í¨¹ý½âÎöÅäÖÃÎÄ¼þÀ´ÊµÏÖ´´½¨¶ÔÏóµÄ¹¦ÄÜ£¬¼òµ¥ÊµÏÖÒÀÀµ×¢Èë£¬¼ÓÇ¿¶ÔÒÀÀµ×¢ÈëµÄÀí½â</p>
+<h2>IoC Inversion of Control ä¾èµ–æ³¨å…¥</h2>
+<h3>æ¨¡æ‹Ÿspringæ¡†æž¶ä¸­çš„ä¾èµ–æ³¨å…¥</h3>
+<p>é€šè¿‡è§£æžé…ç½®æ–‡ä»¶æ¥å®žçŽ°åˆ›å»ºå¯¹è±¡çš„åŠŸèƒ½ï¼Œç®€å•å®žçŽ°ä¾èµ–æ³¨å…¥ï¼ŒåŠ å¼ºå¯¹ä¾èµ–æ³¨å…¥çš„ç†è§£ã€‚</p>
